@@ -1,8 +1,7 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-
-    body { font-family: Arial, sans-serif; margin: 40px; }
+body { font-family: Arial, sans-serif; margin: 40px; }
     h1 { color: #333; }
     a { color: #007bff; text-decoration: none; }
     a:hover { text-decoration: underline; }
